@@ -1,3 +1,3 @@
 # apnacoder
 This is practice from YT
-Authir: Priyanshu Anand
+Author: Priyanshu Anand
